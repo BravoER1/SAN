@@ -5,7 +5,7 @@ print("Wprowadź tekst:")
 t = input()
 
 # Wyświetlenie wprowadzonego tekstu
-print('Wprowadz znak ^ aby wyświetlic liczbe znaków:')
+print('Wprowadz znak ^ aby wyświetlic liczbe znaków(zdanie musi byc zakonczone kropka:')
 
 # Definicja zbiorów samogłosek, spółgłosek oraz cyfr
 sam = 'aeiouyAEIOUY'
